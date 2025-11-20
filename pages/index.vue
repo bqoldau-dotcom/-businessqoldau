@@ -66,17 +66,7 @@
             </div>
           </div>
 
-          <!-- Illustration -->
-          <div class="hidden lg:block animate-float">
-            <img
-              src="/image_svg/undraw_launch-event_aur1.svg"
-              alt="Business Launch"
-              class="w-full h-auto drop-shadow-2xl"
-            />
-          </div>
-        </div>
-      </div>
-    </section>
+
 
     <!-- Этапы конкурса -->
     <section class="section-padding bg-white">
