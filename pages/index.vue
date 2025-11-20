@@ -65,6 +65,8 @@
               </NuxtLink>
             </div>
           </div>
+        </div> 
+      </div>  
 
 
 
