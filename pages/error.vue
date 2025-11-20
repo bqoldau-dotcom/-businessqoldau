@@ -17,7 +17,7 @@
       <!-- Illustration -->
       <div class="mb-8">
         <img
-          src="/uploads/documents/og-image.svg"
+          src="~/uploads/documents/og-image.svg"
           alt="Ошибка"
           class="w-full max-w-md mx-auto"
         />
