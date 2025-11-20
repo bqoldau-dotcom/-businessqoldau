@@ -17,7 +17,7 @@
       <!-- Illustration -->
       <div class="mb-8">
         <img
-          src="/image_svg/undraw_maintenance_4unj.svg"
+          src="/uploads/documents/og-image.svg"
           alt="Ошибка"
           class="w-full max-w-md mx-auto"
         />
